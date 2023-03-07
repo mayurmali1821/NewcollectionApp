@@ -1,0 +1,56 @@
+.mayur{
+background-color:azure;
+}
+h1{
+    text-align: center;
+    margin: 80px;
+     padding: 10px; 
+     color:blue; 
+}
+h2{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    color:crimson;
+    
+}
+.btn-primary{
+    margin: 20px;
+    float: right;
+    padding: 10px;
+}
+.btn-warning{
+    margin: 20px;
+    float: right;
+    padding: 10px;
+}
+
+.form-select-col-sm{
+/* margin-bottom: 5px; */
+background-color:cornsilk;
+font-size: larger;
+float: right;
+}
+
+    
+h3{
+    text-align: center;
+    /* margin: 10px; */
+    /* padding: 10px; */
+    color: black;
+    font-size: large;
+    
+}
+.col{
+border: solid black 1px; 
+/* background-color:bisque; */
+margin: px;
+
+}
+.figure-caption{
+    color:black;
+    font-size: 25px;
+}
+.man{
+    border: none;
+}

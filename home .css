@@ -1,0 +1,89 @@
+
+
+
+/* change the brand and text color */
+/* .navbar-custom .navbar-brand, */
+.nav-item{
+    color: white;
+    font-size: 25px;
+   
+}
+h3{
+  color:darkblue;
+  text-transform: uppercase;
+}
+.navbar{
+  background-color:burlywood;
+}
+.navbar a{
+  color: aliceblue;
+}
+.card-body{
+  background-color:wheat;
+}
+.card-title{
+  color:darkblue;
+}
+.card-text{
+  color:red;
+  font-size: 18px;
+
+}
+.card{
+margin: 10px;
+padding: 10px;
+background-color: blue;
+}
+.card img{
+  background-color:lightgoldenrodyellow;
+}
+.col-sm{
+  
+font-size: 15px;
+/* height: 50px; */
+}
+.brads {
+  text-align: center;
+  margin-top: 50px;
+box-sizing: border-box;
+width: 100px;
+height: 100px;
+border-radius: 75px;
+ background-color:cornflowerblue;
+ border: 2px solid black;
+ position: relative;
+ margin: 40px;
+ box-shadow: 2px 2px 2px 2px;
+ 
+}
+.brads img{
+  font-size: 25px;
+  margin: 25px;
+}
+h1{
+  text-transform: capitalize;
+  margin: 15px;
+  text-align: center;
+  font-size: 50px;
+  font-family:  Georgia, Times, 'Times New Roman', serif;
+}
+/* .brands1{ */
+  /* margin: 25px;
+  padding: 25px;
+  border:10px solid fuchsia;
+} */
+.brands1 img{
+margin: 10px;
+  border: 2px solid black;
+  
+}
+.brands1 h3{
+  width: 200px;
+  /* border: 2px solid gray; */
+  /* background-color: bisque; */
+  color: coral;
+  /* text-align: center; */
+  margin: 5px;
+  font-size: 15px;
+
+}

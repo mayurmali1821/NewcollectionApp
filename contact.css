@@ -1,0 +1,166 @@
+body{
+    background-image: url(contact1.jfif);
+    background-size: cover;
+}
+.nav-item{
+    font-size: 25px;
+    }
+    .navbar a{
+    color: white;
+    }
+    .navbar{
+      background-color:burlywood;
+    }
+    
+.form1{
+    margin: 100px;
+    padding: 10px;
+    background-color: white;
+    /* border: 2px solid black; */
+}
+h2{
+text-align: center;
+font-size: 20px;
+text-transform: uppercase;
+}
+label{
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    
+}
+
+.contact{
+    /* margin-right: 100px; */
+    font-size: 25px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aqua;
+     margin-top: 50px;
+     padding: 10px;
+     font-weight:500;
+}
+.add{
+    margin: 25px;
+
+}
+.con{
+    margin: 25px;
+    
+}
+.pho{
+    margin: 25px; 
+
+}
+.email{
+    margin: 25px;
+    
+}
+.fa-location-dot{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    color: blue;
+    background-color:white;
+    position:relative;
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+    box-sizing: border-box;
+
+    box-shadow: 2px 2px 3px 3px white;
+}
+.fa-phone{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    color: black;
+    background-color:white;
+    position:relative;
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+    box-sizing: border-box;
+
+    box-shadow: 2px 2px 3px 3px white;
+}
+.fa-address-card{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    color: orange;
+    background-color:white;
+    position:relative;
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+    box-sizing: border-box;
+
+    box-shadow: 2px 2px 3px 3px white;
+}
+.fa-envelope{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    color:red;
+    background-color:white;
+    position:relative;
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+    box-sizing: border-box;
+
+    box-shadow: 2px 2px 3px 3px white;
+}
+.color{
+    margin-top: 25px;
+    padding: 22px;
+    text-align: center;
+    font-size: 50px;
+    color:aqua;
+    text-transform: uppercase;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+p{
+    
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    /* font-weight: 500; */
+
+}
+.p1{
+     
+    color:black;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+}
+.fa-whatsapp{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    color: lightgreen;
+    background-color:white;
+    position:relative;
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+    box-sizing: border-box;
+
+    box-shadow: 2px 2px 3px 3px white;
+}
+.fa-house{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    color:burlywood;
+    background-color:white;
+    position:relative;
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+    box-sizing: border-box;
+
+    box-shadow: 2px 2px 3px 3px white;
+}
